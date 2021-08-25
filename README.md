@@ -1,7 +1,9 @@
 # 2021 revzim - azadventure-demo - firebase
+
 ### server - Node/TypeScript
 ### client - Unreal Engine 4.26/C++
 
+``` FIRST DEMO OF TESTING NEW WEB UI IN UE4 & REALIZED VUEITFY MADE BUILT GAME VERY LAGGY SO DROPPED VUETIFY IN NEWER DEMOS ```
 # [VIDEO DEMO](https://revzim.github.io/azadventure-demo/)
 
 ```
