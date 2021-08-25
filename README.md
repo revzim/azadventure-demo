@@ -2,7 +2,7 @@
 ### server - Node/TypeScript
 ### client - Unreal Engine 4.26/C++
 
-# [VIDEO DEMO](https://revzim.github.io/aztd-demo/)
+# [VIDEO DEMO](https://revzim.github.io/azadventure-demo/)
 
 ```
 - PC ISNT GREAT SO RECORDING STUTTERS A LITTLE DURING CERTAIN SWAPPING DUE TO RUNNING SEVERAL APPLICATIONS & PROGRAMS WHILE RECORDING
