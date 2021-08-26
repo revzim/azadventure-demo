@@ -3,7 +3,12 @@
 ### server - Node/TypeScript
 ### client - Unreal Engine 4.26/C++
 
-## GAME FEATURES
+## GAME FEATURES -
+- [VIDEO DEMO](https://revzim.github.io/azadventure-demo/)
+``` 
+- FIRST DEMO OF TESTING NEW WEB UI PLUGIN w/ UE4. VUETIFY WAS TOO INTENSIVE AND ENDED UP LAGGING UI SO DROPPED IN NEWER DEMOS
+- PC ISNT GREAT SO RECORDING STUTTERS A LITTLE DURING CERTAIN SWAPPING DUE TO RUNNING SEVERAL APPLICATIONS & PROGRAMS WHILE RECORDING
+```
 Server
 - authoritative state of truth
   - any and all modifications/decisions to the game state are strictly handled by the game server
@@ -36,12 +41,6 @@ Heroes & Enemies
   - on successful signup, server will procedurally generate your character & all attributes as well as asset information
   - hero assets (weapons/models) can be altered in game and every change is recorded and will be reflected immediately in game as well as in your hero ui
 
-``` FIRST DEMO OF TESTING NEW WEB UI PLUGIN w/ UE4. VUETIFY WAS TOO INTENSIVE AND ENDED UP LAGGING UI SO DROPPED IN NEWER DEMOS ```
-# [VIDEO DEMO](https://revzim.github.io/azadventure-demo/)
-
-```
-- PC ISNT GREAT SO RECORDING STUTTERS A LITTLE DURING CERTAIN SWAPPING DUE TO RUNNING SEVERAL APPLICATIONS & PROGRAMS WHILE RECORDING
-```
 
 ## PLAY
 - CLIENT > DOUBLE CLICK `AZAdventure.exe`
